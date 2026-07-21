@@ -14,7 +14,7 @@ To change to the purple team on multiplayer (Also works for single-player) just 
 The option to still use "MARDY PIGS" is still available though and no longer defaults to "TEAM LARD" after typing either option in.
 The Assembly has been modified to have multiple conditions so as not to confuse people who aren't aware of the Asterisk usage.
 
-<img width="811" height="242" alt="image" src="https://github.com/user-attachments/assets/a0a29ca3-e381-49b8-ae1e-73b16298e6b9" />
+<img width="805" height="254" alt="image" src="https://github.com/user-attachments/assets/0c5163cc-a270-49ee-b78d-c514fb01e70a" />
 
 <h4><b>Release on the right</b></h4>
 
