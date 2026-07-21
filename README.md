@@ -6,8 +6,8 @@ Especially for those who select the purple team, who no longer need to type out 
 The .exe file should be placed in the folder that contains each HoWL ISO folder for this to work best properly.
 Try not to put this in any folder with any files or subdirectories that contain files with a .bin extension.
 Regardless this should actually work for your regular hogs bins.
-<br>
-<b>DO NOT</b> use this on your current league files if you're currently participating in <b>middle league 2026</b>. 
+
+<h4><b>DO NOT</b></h4> use this on your current league files if you're currently participating in <b>middle league 2026</b>. 
 Small differences in files may upset netplay and I've not tested such mismatches. Test on backups if you need.
 
 <h2>Usage:</h2>
