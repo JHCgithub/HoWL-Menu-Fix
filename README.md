@@ -1,0 +1,21 @@
+# HoWL-Menu-Fix
+Utility designed to set up some frontend values for the Hogs of War League.
+Especially for those who select the purple team, who no longer need to type out "MARDY PIGS" just to get the correct team colour
+
+<h2>NOTE:</h2>
+The .exe file should be placed in the folder that contains each HoWL ISO folder for this to work best properly.
+Try not to put this in any folder with any files or subdirectories that contain files with a .bin extension.
+
+<h2>Usage:</h2>
+Just put the program into this folder shown below. Run the program and all 3 current league files will be patched.
+
+To change to the purple team on multiplayer (Also works for single-player) just type an Asterisk <b>*</b> into the team name and apply.
+
+The option to still use "MARDY PIGS" is still available though and no longer defaults to "TEAM LARD" after typing either option in.
+The Assembly has been modified to have multiple conditions so as not to confuse people who aren't aware of the Asterisk usage.
+
+<img width="811" height="242" alt="image" src="https://github.com/user-attachments/assets/a0a29ca3-e381-49b8-ae1e-73b16298e6b9" />
+
+<h4><b>Release on the right</b></h4>
+
+Any bugs, let me know.
