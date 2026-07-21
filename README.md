@@ -4,8 +4,8 @@ Especially for those who select the purple team, who no longer need to type out 
 
 <h2>NOTE:</h2>
 The .exe file should be placed in the folder that contains each HoWL ISO folder for this to work best properly.
-Try not to put this in any folder with any files or subdirectories that contain files with a .bin extension that isn't a hogs .bin file
-Regardless this should actually work for your regular hogs bins. 
+Try not to put this in any folder with any files or subdirectories that contain files with a .bin extension that isn't a hogs .bin file.
+Regardless this should actually work for your regular hogs bins too.
 
 .
 
