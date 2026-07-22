@@ -1,6 +1,10 @@
 # HoWL-Menu-Fix
+
 Utility designed to set up some frontend values for the Hogs of War League.
+
 Especially for those who select the purple team, who no longer need to type out "MARDY PIGS" just to get the correct team colour
+
+<h1>Currently removed releases as I spotted a bug. Once the Assembly is corrected I'll re-release</h1>
 
 <h2>NOTE:</h2>
 The .exe file should be placed in the folder that contains each HoWL ISO folder for this to work best properly.
